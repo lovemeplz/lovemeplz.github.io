@@ -2,7 +2,7 @@
 title: BY Blog
 SEOTitle: 沈自强的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: 1143783926@qq.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 沈自强的博客, shenziqiang, 沈自强, 前端,front end engineer"
 url: "https://lovemeplz.github.io/"          # your host, for absolute URL
@@ -11,7 +11,7 @@ github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Code,Music,Life!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
